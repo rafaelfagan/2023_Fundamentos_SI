@@ -6,4 +6,6 @@
 
 ## Como funciona a Computação em Nuvem
 
-### Na Computação em Nuvem o usuário ou empresa contratam um serviço de armazenamento e/ou processamento, para que não dependa de 
+### Na Computação em Nuvem o usuário ou empresa contratam um serviço de armazenamento e/ou processamento, para que não dependa de suas máquinas locais para atualizações de capacidades, e/ou demandas de segurança. Como os dados estão gravados em uma máquina remota, é essencial que haja conexão com a internet.
+
+##
