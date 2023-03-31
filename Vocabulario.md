@@ -25,3 +25,6 @@
         - REST: JSON (GSON)
         - Compartilhamento: dados e recursos
         - O que é um micro serviço? Como se sustenta?
+        
+        
+alexg@ufn.edu.br
