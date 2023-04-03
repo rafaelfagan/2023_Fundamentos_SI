@@ -24,7 +24,13 @@
 ### Middle Ware: web service
         - REST: JSON (GSON)
         - Compartilhamento: dados e recursos
-        - O que é um micro serviço? Como se sustenta?
-        
+        - O que é um micro serviço? Como se sustenta?        
         
 alezg@ufn.edu.br
+
+
+# Microsserviços
+
+## Conceito: são um tipo inovador de arquitetura de software, que consiste em construir aplicações desmembrando-as em serviços independentes. Estes serviços se comunicam entre si usando APIs e promovem grande agilidade em times de desenvolvimento. Diferentemente da abordagem tradicional monolítica em que toda a aplicação é criada como um único bloco, os microsserviços são componentes separados que trabalham juntos para realizar as mesmas tarefas. Cada um dos componentes ou processos é um microsserviço. A vertente da arquitetura de microsserviços valoriza a granularidade e, claro, uma aplicação bem mais leve.
+
+
