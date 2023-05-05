@@ -1,0 +1,30 @@
+Internet das Coisas
+05/05/2023
+
+Conceito: Capacidade de Interação entre equipamentos, atualmente através mo modelo TCP/IP (comunicação).
+Exemplo: sistema de automação residencial utilizando uma central Sonoff para acionar persianas elétricas atrás de um app para celular e a rede wi-fi da residência.
+
+Computação em Nuvem
+  → Sistemas Interagindo
+  → Sistemas Heterogêneos
+  → Modelo TCP/IP
+  → API
+  → Integração
+  → Sistemas Embarcados
+   
+  { Computação em Nuvem [IoT (Sistemas Pervasivos / Sistemas Ubiquos) ] }
+  
+  
+  Computação Ubíqua: conceito relacionado à presença de vários dispositivos interconectados e presentes no cotidiano das pessoas.
+  * Ubíquo: que está ou existe em toda parte, onipresente.
+  ** Funcionalidades devem ser tornar "invisíveis" ao usuário, onde este as utiliza de forma natural.
+  *** Tem por objetivo tornar a interação homem x tecnologia invisível (invisivel não no sentido de não poder ser visto, mas no sentido de nem se perceber que se está fornecendo dados ou comandos para um sistema).
+  **** Surge da Integração da Computação Pervasiva com a Computação Móvel.
+
+  Computação Ubíqua Áreas: Computação Nômade, Computação Móvel, Computação Autonômica, Ambientes Inteligentes, Computação Distribuida, Redes de Sensores Sem Fio.
+  
+  Computação Ubíqua Desvantagens: Segurança, Complexidade, Custo alto de implantação, Custo alto de manutenção, Poucos profissionais especializados.
+  
+ 
+ Computação Pervasiva: conceito relacionado à tornar o uso dos sistemas computacionais transparentes aos usuários.
+  ** 
