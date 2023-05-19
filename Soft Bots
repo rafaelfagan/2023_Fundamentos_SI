@@ -1,1 +1,30 @@
+Soft Bots
 
+→ Chatter bots
+Chatbot é um software que trabalha e gerencia as trocas de mensagens simulando uma conversa humana. Também são chamados por outros nomes, como assistentes virtuais, agentes virtuais ou simplesmente bot. O conceito da palavra chatbot é justamente a junção das palavras “chat” (conversa em inglês) e “bot” (robô em inglês).
+
+Os chatbots funcionam simulando uma conversa entre uma pessoa e um computador (software), considerando-se 5 componentes que trabalham em conjunto:
+
+1) Software (Plataforma de Chatbots):
+O chatbot é construído sobre uma plataforma de software programada para esta função, onde você poderá gerenciar o chatbot, as conversas, os atendimentos, os relatórios estatísticos e integrações com sistemas que a empresa já usa.
+
+2) Base de conhecimento (perguntas e respostas):
+Naturalmente o foco do chatbot será sempre automatizar uma conversa (ou um processo) muito focado no atendimento a clientes, respondendo automaticamente a perguntas comuns. Então o chatbot necessita ser “carregado” com toda esta base de conhecimento.
+
+3) Inteligência Artificial:
+Ponto fundamental para entregar aos usuários uma experiência humanizada, simulando um diálogo. A área da inteligência artificial, no contexto dos chatbots refere-se principalmente ao Processamento da Linguagem Natural (PLN). É baseado nesta tecnologia que o chatbot irá interpretar às intenções das pessoas em texto ou em voz, como elas já se comunicam no seu dia-a-dia.
+
+4) Canais Conversacionais ou “onde podem ser instalados?”:
+Cada empresa irá definir qual ou quais canais são mais importantes para utilizar o chatbot visando a automatização considerando o tipo de relacionamento com seus públicos-alvo ou clientes. O chatbot pode ser instalado em sites, apps proprietários e aplicativos populares, como o Facebook Messenger, Telegram, Instagram ou WhatsApp.
+
+5) Integrações:
+Para explorar todo o potencial do chatbot é fundamental que ele esteja integrado aos softwares e sistemas que a empresa já usa para poder realizar as tarefas de forma completa, como por exemplo, gerar uma 2ª via de um boleto, realizar um cadastro ou verificar uma posição ou status de um pedido.
+
+
+
+
+→ Spy bots (web crawler)
+
+Um web crawler, ou spider, ou rastreador da internet, é um tipo de bot que normalmente é operado por mecanismos de pesquisa, como Google e Bing. Seu objetivo é indexar o conteúdo de sites em toda a internet para que esses sites possam aparecer nos resultados dos mecanismos de pesquisa.
+
+Googlebot é o robô indexador usado pelo Google para indexar páginas e documentos da web para construir um índice de buscas para o Google Search. Existem dois tipos de rastreadores: o Googlebot Desktop e o Googlebot Mobile para dispositivos móveis. Ambos simulam a ação dos usuários nesses dois ambientes.
