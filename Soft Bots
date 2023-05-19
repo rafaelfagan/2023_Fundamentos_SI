@@ -1,4 +1,4 @@
-Soft Bots
+# Soft Bots
 
 → Chatter bots
 Chatbot é um software que trabalha e gerencia as trocas de mensagens simulando uma conversa humana. Também são chamados por outros nomes, como assistentes virtuais, agentes virtuais ou simplesmente bot. O conceito da palavra chatbot é justamente a junção das palavras “chat” (conversa em inglês) e “bot” (robô em inglês).
@@ -27,4 +27,16 @@ Para explorar todo o potencial do chatbot é fundamental que ele esteja integrad
 
 Um web crawler, ou spider, ou rastreador da internet, é um tipo de bot que normalmente é operado por mecanismos de pesquisa, como Google e Bing. Seu objetivo é indexar o conteúdo de sites em toda a internet para que esses sites possam aparecer nos resultados dos mecanismos de pesquisa.
 
-Googlebot é o robô indexador usado pelo Google para indexar páginas e documentos da web para construir um índice de buscas para o Google Search. Existem dois tipos de rastreadores: o Googlebot Desktop e o Googlebot Mobile para dispositivos móveis. Ambos simulam a ação dos usuários nesses dois ambientes.
+
+Como o Web Crawler funciona?
+
+A função do Web Crawler é fazer a busca dos sites existentes, a fim de classificá-los de acordo com o grau de relevância que eles apresentam. Para a definição disso, cada mecanismo de busca possui seus critérios pré-determinados, que consistem em boas práticas para a produção de conteúdo na Web.
+
+Diante disso, o Web Crawler analisa as informações contidas nos sites e faz uma coleta de dados, que serão usados para gerar uma classificação de páginas. Tal, pode ser observada nas listas que aparecem ao pesquisar algo em um mecanismo de busca.
+
+Além disso, vale ressaltar que o uso desse recurso não é restrito apenas aos motores de busca, visto que, existem versões particulares de código aberto que podem ser usadas para analisar o desempenho de um site de notícias, por exemplo.
+
+Vale ressaltar ainda que, é necessário um conhecimento prévio avançado em programação para a aplicação de um Web Crawler, o que sugere a necessidade de  contratação de um profissional nessa área para melhores resultados.
+
+
+.: Googlebot é o robô indexador usado pelo Google para indexar páginas e documentos da web para construir um índice de buscas para o Google Search. Existem dois tipos de rastreadores: o Googlebot Desktop e o Googlebot Mobile para dispositivos móveis. Ambos simulam a ação dos usuários nesses dois ambientes.
