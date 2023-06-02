@@ -43,8 +43,6 @@
 - Acessibilidade: A app maior é decomposta em partes menores, o que facilita entendê-las, atualizá-las e as aprimorar para quem está desenvolvendo. Isso resulta em ciclos de desenvolvimento mais rápidos, principalmente quando também são empregadas as metodologias de desenvolvimento ágil.
 - Mais acesso ao open source: Graças às APIs com suporte a múltiplas linguagens, a equipe de desenvolvimento pode escolher a melhor linguagem e tecnologia para a função necessária.
 
-## Quando utilizar:
-- 
 
 
 
