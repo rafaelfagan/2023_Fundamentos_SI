@@ -12,23 +12,21 @@ Computação em Nuvem
   → Integração
   → Sistemas Embarcados
    
-  { Computação em Nuvem [IoT (Sistemas Pervasivos / Sistemas Móveis / Sistemas Ubiquos) ] }
-  
-  
-   
-  
+  { Computação em Nuvem [IoT (Sistemas Pervasivos / Sistemas Móveis / Sistemas Ubiquos) ] }  
+     
  
   Computação Pervasiva: conceito atralado àquelas tecnologias que podem estar invisíveis ao olho nu do ser humado, mas sabe-se que estão presentes no espaço, como por exemplo uma casa inteligente - com seus vários sensores, atuadores e dispositivos de rede.
+	
   Computação Móvel: conceito relacionado à disponibilidade de informação em qualquer lugar, a qualquer momento - tablets, wearables, celulares, etc.
+	
   Computação Ubíqua: poderia ser interpretada como a fusão entre as tecnologias pervasivas e as tecnologias móveis (descentralização, diversidade e conectividade).
-    → [ Computação Pervasiva (Computação Ubíqua) Computação Móvel ]
-    → Características típicas do Cenário Obíquo:
+    → [Computação Pervasiva (Computação Ubíqua) Computação Móvel]
+    → Características típicas do Cenário Ubíquo:
       Invisibilidade: quanto mais presente uma tecnologia está, menos perceptível ela é (usuário acaba se acostumando a um wearable coletando seus dados cardíacos).
       Pró-atividade: o sistema é capaz de se antecipar a intenção do usuário.
       Sensibilidade ao contexto: o sistema possui mecanismos que permitem a aquisição de informações do meio.
       Interfaces Naturais: esforço em criar interfaces (IHM) que naturalize a interação entre pessoas e sistemas computacionais. Apelo a recursos humanizados como gestos, voz, olhar, para o interfaceamento homem-máquina.
       Descentralização:
       
-      
-      
+            
       Computação Ubíqua Desvantagens: Segurança, Complexidade, Custo alto de implantação, Custo alto de manutenção, Poucos profissionais especializados.
